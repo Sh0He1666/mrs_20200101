@@ -6,7 +6,8 @@ import java.sql.SQLException;
 /**
  * シンプルなコネクション管理クラス
  * @author shoheitokumaru
- */
+ *
+ **/
 public class ConnectionManager {
 
 	/**
